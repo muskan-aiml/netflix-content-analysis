@@ -24,6 +24,8 @@ Exploratory Data Analysis (EDA) on Netflix's movies and TV shows catalog — unc
 
 ![Rating Distribution](output.png)
 
+📌 *For the complete analysis with all visualizations, check out [netflix.ipynb](netflix.ipynb)*
+
 ## 🚀 How to Run
 1. Clone this repo
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn`
