@@ -30,4 +30,4 @@ Exploratory Data Analysis (EDA) on Netflix's movies and TV shows catalog — unc
 3. Open `netflix.ipynb` in Jupyter Notebook
 
 ---
-Made by [Muskan Panchal] | [LinkedIn link]
+Made by [Muskan Panchal] | [www.linkedin.com/in/muskan-panchal-840b72411]
